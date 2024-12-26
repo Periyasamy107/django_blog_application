@@ -22,13 +22,13 @@ A simple blog application built with Django and Django REST Framework. It suppor
 
 ### Steps
 1. Clone the repository:
-     git clone <repository_url>
+       git clone <repository_url>
 2. Install the requirements: 
-     pip freeze > requirements.txt
+       pip freeze > requirements.txt
 3. Move to the project folder:
-     cd <project_folder>
+       cd <project_folder>
 4. Run the application:
-     python manage.py runserver
+       python manage.py runserver
 
 <br><br>
 ### API ENDPOINTS 
