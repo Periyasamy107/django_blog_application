@@ -30,7 +30,7 @@ A simple blog application built with Django and Django REST Framework. It suppor
 4. Run the application:
      python manage.py runserver
 
-<br><br><br>
+<br><br>
 ### API ENDPOINTS 
 - **GET METHOD** **Get Posts : ** http://127.0.0.1:8000/posts
 - **GET METHOD** **Get Posts by id : ** http://127.0.0.1:8000/posts/5
@@ -40,6 +40,9 @@ A simple blog application built with Django and Django REST Framework. It suppor
 
 - **GET METHOD** **Get Comments : ** http://127.0.0.1:8000/comments
 - **POST METHOD** **Add new comment : ** http://127.0.0.1:8000/comments/
+
+
+<br><br>
 
 ### Sample API Response/Output
 #### Get all posts (Both Authenticated and Unauthenticated Users can see the results)
