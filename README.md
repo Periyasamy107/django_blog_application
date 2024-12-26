@@ -32,7 +32,7 @@ A simple blog application built with Django and Django REST Framework. It suppor
 
 ### Sample API Response/Output
 #### Get all the posts 
-![Home Page](img_url)
+![Home Page](https://github.com/Periyasamy107/django_blog_application/blob/dev/Sample%20API%20Response/Get%20Posts.png)
 
 
 
