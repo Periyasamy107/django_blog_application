@@ -31,8 +31,12 @@ A simple blog application built with Django and Django REST Framework. It suppor
    python manage.py runserver
 
 ### Sample API Response/Output
-#### Get all the posts 
+#### Get all posts (Both Authenticated and Unauthenticated Users can see the results)
 ![Home Page](https://github.com/Periyasamy107/django_blog_application/blob/dev/Sample%20API%20Response/Get%20Posts.png)
+<br>
+#### Add new post (Only Authenticated Users can add the post)
+![Home Page](https://github.com/Periyasamy107/django_blog_application/blob/dev/Sample%20API%20Response/Get%20Posts.png)
+<br>
 
 
 
