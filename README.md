@@ -32,14 +32,15 @@ A simple blog application built with Django and Django REST Framework. It suppor
 
 <br><br>
 ### API ENDPOINTS 
-- **GET METHOD** **Get Posts : ** http://127.0.0.1:8000/posts
-- **GET METHOD** **Get Posts by id : ** http://127.0.0.1:8000/posts/5
-- **POST METHOD** **Add new post : ** http://127.0.0.1:8000/posts
-- **PUT METHOD** **Change the post : ** http://127.0.0.1:8000/posts/change/2
-- **DELETE METHOD** **Remove the post : ** http://127.0.0.1:8000/posts/remove/3
+- **GET METHOD** **Get Posts : **   http://127.0.0.1:8000/posts
+- **GET METHOD** **Get Posts by id : **   http://127.0.0.1:8000/posts/5
+- **POST METHOD** **Add new post : **   http://127.0.0.1:8000/posts
+- **PUT METHOD** **Change the post : **  http://127.0.0.1:8000/posts/change/2
+- **DELETE METHOD** **Remove the post : **  http://127.0.0.1:8000/posts/remove/3
 
-- **GET METHOD** **Get Comments : ** http://127.0.0.1:8000/comments
-- **POST METHOD** **Add new comment : ** http://127.0.0.1:8000/comments/
+- **GET METHOD** **Get Comments : **   http://127.0.0.1:8000/comments
+- **POST METHOD** **Add new comment : **   http://127.0.0.1:8000/comments/
+- ** GET METHOD** **Virtual Documentation : **   http://127.0.0.1:8000/blogDocs/
 
 
 <br><br>
