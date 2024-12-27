@@ -40,7 +40,7 @@ A simple blog application built with Django and Django REST Framework. It suppor
 
 - **GET METHOD** **Get Comments : **   http://127.0.0.1:8000/comments
 - **POST METHOD** **Add new comment : **   http://127.0.0.1:8000/comments/
-- ** GET METHOD** **Virtual Documentation : **   http://127.0.0.1:8000/blogDocs/
+- **GET METHOD** **Virtual Documentation : **   http://127.0.0.1:8000/blogDocs/
 
 
 <br><br>
